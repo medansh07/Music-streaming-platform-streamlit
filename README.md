@@ -1,5 +1,7 @@
 🎵 Wavelength — Music Streaming Frontend (Streamlit)
+
 link : https://music-streaming-platform-app-mza9chxrsjkzhplbbfgt3h.streamlit.app/
+
 A frontend-only Streamlit demo of a music streaming platform. Browse songs, like tracks, queue them up, and simulate a "Now Playing" screen — all in-memory for the session, no backend, database, or login required.
 
 Features
